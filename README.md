@@ -1,1 +1,1 @@
-I like neural networks..
+I love neural networks..
